@@ -1,6 +1,6 @@
 # website
 
-Neste Projeto criei Site simples .<br>
+Neste Projeto criei um Site simples .<br>
 <a href="https://aronnascimento1.github.io/website/"><img src="/assets/aron.png" width="1000px" height="500px"></a><br>
 clique<a href="https://aronnascimento1.github.io/website/"> aqui </a>para ver o site
 
